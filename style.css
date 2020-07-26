@@ -251,7 +251,12 @@ section:last-child {
 @media print {
     #cv {
         width: 100%;
-    }
+	}
+	#headshot {
+		width: 12.5%;
+		float: left;
+		margin-right: 30px;
+	}
 }
 
 @-webkit-keyframes reset {
