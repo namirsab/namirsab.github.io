@@ -177,7 +177,7 @@ section:last-child {
 @media all and (min-width: 602px) and (max-width: 800px) {
 	#headshot {
 		display: block;
-		width:50%;
+		width:40%;
 	}
 	
 	.keySkills {
